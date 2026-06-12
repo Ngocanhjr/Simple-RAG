@@ -1,0 +1,11 @@
+tqdm
+langchain-community
+langchain_text_splitters
+pypdf
+faiss-cpu
+"unstructured[pdf]"
+#langchain-openai if use open AI
+langchain-huggingface
+sentence-transformers 
+langchain-nvidia-ai-endpoints
+python-dotenv
